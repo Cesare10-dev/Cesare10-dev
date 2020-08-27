@@ -1,4 +1,6 @@
-### Hi there 👋
+## Ciao sono Cesare 😄 👋
+### Sono un Developer 💻
+#### I linguaggi che preferisco sono Html, Css, Javscript e React
 
 <!--
 **Cesare10-dev/Cesare10-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
