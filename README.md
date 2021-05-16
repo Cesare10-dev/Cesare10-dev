@@ -1,8 +1,7 @@
 ## Hi I'm Cesare 😄 👋
 ### A React Developer 💻
-#### I linguaggi che preferisco sono Html, Css, Javscript e React
 
-I'm a React developer who loves building project. Below I put some projects that show what I have learned and some of my skills: Html, Css, JavaScript, React, Redux ...
+I'm a React developer who loves building project. I put some projects that show what I have learned and some of my skills: Html, Css, JavaScript, React, Redux ...
 I'm curious and learning React Native and Next.js to keep learning new skills and be a better developer. This is the link to my portfolio ...
 
 <!--
