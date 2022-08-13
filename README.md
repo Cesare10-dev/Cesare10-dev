@@ -2,9 +2,9 @@
 ### A React Developer 👨🏻‍💻
 
 I'm a React developer who loves building project. I put some projects that show what I have learned and some of my skills: 
-Html, Css, JavaScript, React, React Native, Redux, Tailwind Css, Styled Components ...
+Html, Css, JavaScript, React, Next.js, Tailwind Css, Redux, Styled Components ...
 
-I'm learning Typescript, React Native and Next.js to keep learning new skills and be a better developer. 
+I'm learning Typescript, React Native to keep learning new skills and be a better developer. 
 
 This is the link to my portfolio https://portfolio-cesare10-dev.vercel.app
 
