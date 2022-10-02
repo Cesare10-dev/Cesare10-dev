@@ -1,5 +1,5 @@
-## Hi I'm Cesare 😄 👋
-### A React Developer 👨🏻‍💻
+## Hi I'm Cesare 😄
+### React Developer
 
 I am a React developer who loves building projects.
 I’m improving in Next.js, Typescript, React Native and Node, to keep growing and gaining new skills to become a better developer.
