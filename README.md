@@ -1,10 +1,11 @@
 ## Hi I'm Cesare 😄 👋
 ### A React Developer 👨🏻‍💻
 
-I'm a React developer who loves building project. I put some projects that show what I have learned and some of my skills: 
-Html, Css, JavaScript, React, Next.js, Tailwind Css, Redux, Styled Components ...
+I am a React developer who loves building projects.
+I’m improving in Next.js, Typescript, React Native and Node, to keep growing and gaining new skills to become a better developer.
 
-I'm learning Typescript, React Native to keep learning new skills and be a better developer. 
+Skills :
+Html, Css, JavaScript, Node, Firebase, Redux, React.js, React Native, Next.js, Tailwind Css, Typescript, Next Auth, Material UI, Styled Components, Sass, GraphQL.
 
 This is the link to my portfolio https://portfolio-cesare10-dev.vercel.app
 
