@@ -2,7 +2,7 @@
 ### React Developer
 
 I am a React developer who loves building projects.
-I’m improving in Next.js, Typescript, React Native and Node, to keep growing and gaining new skills to become a better developer.
+I’m improving in Next.js, Typescript and React Native, to keep growing and gaining new skills to become a better developer.
 
 Skills :
 Html, Css, JavaScript, Node, Firebase, Redux, React.js, React Native, Next.js, Tailwind Css, Typescript, Next Auth, Material UI, Styled Components, Sass, GraphQL.
