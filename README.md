@@ -1,12 +1,13 @@
 ## Hi I'm Cesare 😄
-### React Developer
+### JavaScript Developer
 
-I'm a React developer who loves building projects.
-Every week I learn new things, because a developer never stops improving.
+I’m a Frontend developer, I work with JavaScript and React.js and with Next.js I’m improving to become a Fullstack developer.
 
-My tech stack actually is React.js or Next.js, Typescript, Tailwind Css and others.
+- Every week I learn new things, because a developer never stops improving.
 
-I worked with React Native, it's cool build apps for both platforms, Android and iOS.
+- My tech stack actually is React.js or Next.js, Typescript, Tailwind Css and others.
+
+- I worked with React Native, it's cool build apps for both platforms, Android and iOS.
 
 Skills :
 Html, Css, JavaScript, Node, Firebase, Redux, React.js, React Native, Next.js, Tailwind Css, Typescript, Next Auth, Material UI, Styled Components, Sass, GraphQL, Prisma, MongoDB.
