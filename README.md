@@ -7,7 +7,7 @@ I’m a Frontend developer, I work with JavaScript and React.js and with Next.js
 
 - My tech stack actually is React.js or Next.js, Typescript, Tailwind Css and others.
 
-- I worked with React Native, it's cool build apps for both platforms, Android and iOS.
+- I work with React Native, it's cool build apps for both platforms, Android and iOS.
 
 Skills :
 Html, Css, JavaScript, Node, Firebase, Redux, React.js, React Native, Next.js, Tailwind Css, Typescript, Next Auth, Material UI, Styled Components, Sass, GraphQL, Prisma, MongoDB.
