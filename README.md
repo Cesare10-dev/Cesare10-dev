@@ -1,7 +1,7 @@
 ## Hi I'm Cesare 😄
 ### JavaScript Developer
 
-I’m a Frontend developer, I work with JavaScript and React.js and with Next.js I’m improving to become a Fullstack developer.
+I’m a Frontend developer, I work with JavaScript, React.js and with Next.js. I’m improving to become a Fullstack developer.
 
 - Every week I learn new things, because a developer never stops improving.
 
