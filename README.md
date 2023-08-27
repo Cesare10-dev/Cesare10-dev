@@ -16,6 +16,7 @@ Html, Css, JavaScript, React.js, Redux, React Native, Next.js, Tailwind Css, Typ
 
 https://portfolio-ntw.vercel.app
 
+</br>
 
 Old portfolio
 https://portfolio-cesare10-dev.vercel.app
