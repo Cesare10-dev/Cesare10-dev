@@ -14,7 +14,7 @@ Html, Css, JavaScript, React.js, Redux, React Native, Next.js, Tailwind Css, Typ
 
 ### This is the link to my portfolio 😊
 
-portfolio-ntw-cesare10-dev.vercel.app
+https://portfolio-ntw-cesare10-dev.vercel.app
 
 Old portfolio
 https://portfolio-cesare10-dev.vercel.app
