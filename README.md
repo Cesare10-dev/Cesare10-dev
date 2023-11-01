@@ -5,7 +5,7 @@ I’m a Frontend developer, I work with JavaScript, React.js and with Next.js. I
 
 - Every week I learn new things, because a developer never stops improving.
 
-- My tech stack actually is React.js or Next.js, Typescript, Tailwind Css and others.
+- My tech stack actually is Html, Css (Sass) and JavaScript or React.js (Next.js), Typescript, Tailwind Css and others.
 
 - I work with React Native, it's cool build apps for both platforms, Android and iOS.
 
