@@ -1,5 +1,5 @@
 ## Hi I'm Cesare 😄
-### Frontend Developer
+### Frontend - Fullstack Developer
 
 I’m a Frontend developer, I work with JavaScript, React.js and Next.js. I’m improving to become a Fullstack developer.
 
