@@ -12,7 +12,7 @@ I’m a Frontend developer, I work with JavaScript, React.js and Next.js. I’m 
 ### My Skills :
 Html, Css, JavaScript, React.js, Redux, React Native, Next.js, Tailwind Css, Typescript, Next Auth, Material UI, Styled Components, Node, Sass, GraphQL, Prisma, MongoDB, Firebase, SQL.
 
-### This is the link to my portfolio 😊
+### This is the link to my portfolio
 
 https://portfolio-ntw.vercel.app
 
